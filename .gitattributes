@@ -1,0 +1,4 @@
+clickhouse-server-21.11.3.6.tgz filter=lfs diff=lfs merge=lfs -text
+clickhouse-client-21.11.3.6.tgz filter=lfs diff=lfs merge=lfs -text
+clickhouse-common-static-dbg-21.11.3.6.tgz filter=lfs diff=lfs merge=lfs -text
+clickhouse-common-static-21.11.3.6.tgz filter=lfs diff=lfs merge=lfs -text
